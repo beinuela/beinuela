@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 🌱 I’m currently learning JAVA and C++
+- 🌱 I am currently a sophomore at Zhengzhou University of Light Industry, studying web, Linux, git and python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beinuela&show_icons=true&theme=radical)
 <hr>
